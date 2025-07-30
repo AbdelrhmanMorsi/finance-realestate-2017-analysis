@@ -34,12 +34,5 @@ Using employment, establishment, and payroll data aggregated by state, this anal
 3. Ensure that the required libraries (pandas, matplotlib, seaborn) are installed — use `pip install pandas matplotlib seaborn` if needed.  
 4. Run all cells sequentially to reproduce analysis and visualizations.
 
-## Acknowledgments
-
-Data source: (Please add source URL or info here if available; if confidential, remove)  
-Visualization libraries: seaborn and matplotlib  
-Thanks to open-source contributors who maintain Python data science tools.
-
----
 
 Feel free to contact me or raise issues if you find bugs or have suggestions!
